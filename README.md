@@ -1,11 +1,11 @@
 # Informações sobre o Trabalho de Conclusão de Curso (TCC)
-`TÍTULO DO TCC`  
+`PharmScrapper: Um Sistema para Análise de Patentes Farmacêuticas por Meio de Web Scraping - Uma Abordagem Automatizada para Coleta e Avaliação de Dados`  
 
 Trabalho de Conclusão de Curso (TCC)
 
-`CURSO`: 
+`SISTEMAS DE INFORMACAO`: 
 
-`SEMESTRE:`
+`8:`
 
 `Objetivos de Desenvolvimento Sustentável (ODS) da ONU:` 
 > Incluir o(s) número(s) e a(s) descrição(ões) do(s) ODS da ONU que o TCC atende. 
@@ -13,8 +13,7 @@ Trabalho de Conclusão de Curso (TCC)
 ## Participantes
 
 Os membros da equipe são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Igor Frederico Gomes Quaresma
 
 > Incluir a lista dos membros da equipe com seus nomes completos.
 
